@@ -1,16 +1,4 @@
-# final-project-jams
-
-final-project-jams created by GitHub Classroom
-
-
-
-## Team members:    
-
-1. Moinuddin Raziuddin Khaja (NUID - 0027620250, Email - khaja.m@northeastern.edu)          
-2. Anay Rajesh Pampatwar (NUID - 002766273, Email - pampatwar.a@northeastern.edu)
-3. Jay Milan Doshi (NUID - 002762973, Email - doshi.jaym@northeastern.edu)
-4. Swapnil Shankarrao Biradar (NUID - 002775707, Email - biradar.sw@northeastern.edu)
-
+# Stock Portfolio Management
 
 ## Overview:
 
